@@ -1,4 +1,6 @@
 # 🏄‍♂️ Morris M. Muthigani
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer)](https://git.io/typing-svg)
  
 **`Software Engineer`**
  
