@@ -41,6 +41,9 @@ I'm a full-stack developer building my version of the digital world one step at 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mmuthigani&theme=vue-dark" alt="GitHub Streak" /></a>
 </p>
 <h3>💻 GitHub Profile Stats</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmuthigani&show_icons=true&theme=radical)
+ 
+<h3>💻 GitHub Profile Stats</h3>
 <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mmuthigani's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mmuthigani&theme=vue" /></a>
 </details>
