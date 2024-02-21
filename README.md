@@ -1,7 +1,6 @@
 # 🏄‍♂️ Morris M. Muthigani
 
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer)](https://git.io/typing-svg)
-   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ### Hi there 👋
  
 #### “Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.”  Henry van Dyke
